@@ -7,7 +7,6 @@ function App() {
     <div class="S" className='container mt-10 bg-[#697689] w-60rem'>
       <nav>
       <header className='flex justify-betwen items-center ml-40 '>
-        <img src='Images/OIP.jpeg' className='w-20 mr-5'></img>
         <NavLink className=" mr-20 text-xl" style={({isActive})=> ({background:isActive ? '#fccb00':'#FFFCEC'})} to="/">1</NavLink>
         <NavLink className="mr-20 text-xl" style={({isActive})=> ({background:isActive ? '#fccb00':'#FFFCEC'})} to="/4">2</NavLink>
       </header>
