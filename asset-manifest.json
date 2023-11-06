@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdotemlali/mrabi/static/css/main.7a2c7f85.css",
-    "main.js": "/abdotemlali/mrabi/static/js/main.8a10f412.js",
-    "static/js/787.16ed3a83.chunk.js": "/abdotemlali/mrabi/static/js/787.16ed3a83.chunk.js",
-    "index.html": "/abdotemlali/mrabi/index.html",
-    "main.7a2c7f85.css.map": "/abdotemlali/mrabi/static/css/main.7a2c7f85.css.map",
-    "main.8a10f412.js.map": "/abdotemlali/mrabi/static/js/main.8a10f412.js.map",
-    "787.16ed3a83.chunk.js.map": "/abdotemlali/mrabi/static/js/787.16ed3a83.chunk.js.map"
+    "main.css": "/abdotemlali/aidoun/static/css/main.7a2c7f85.css",
+    "main.js": "/abdotemlali/aidoun/static/js/main.bee939bb.js",
+    "static/js/787.16ed3a83.chunk.js": "/abdotemlali/aidoun/static/js/787.16ed3a83.chunk.js",
+    "index.html": "/abdotemlali/aidoun/index.html",
+    "main.7a2c7f85.css.map": "/abdotemlali/aidoun/static/css/main.7a2c7f85.css.map",
+    "main.bee939bb.js.map": "/abdotemlali/aidoun/static/js/main.bee939bb.js.map",
+    "787.16ed3a83.chunk.js.map": "/abdotemlali/aidoun/static/js/787.16ed3a83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a2c7f85.css",
-    "static/js/main.8a10f412.js"
+    "static/js/main.bee939bb.js"
   ]
 }
